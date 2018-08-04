@@ -10,7 +10,7 @@
 
 - 分类问题：预测的是`生`与`死`的问题
 
-- 常用算法： K近邻(KNN)、 逻辑回归(LogisticRegression)、 随机森林(RandomForest)、 支持向量机(SVM`、 xgboost、 GBDT
+- 常用算法： K近邻(KNN)、 逻辑回归(LogisticRegression)、 随机森林(RandomForest)、 支持向量机(SVM)、 xgboost、 GBDT
 
 
 #### 步骤:
@@ -210,7 +210,7 @@
 
 
 ----------
--⑤ Embarked登港港口与生存情况的分析
+- ⑤ Embarked登港港口与生存情况的分析
 
 
 结果分析:C地的生存率更高,这个也应该保留为模型特征.
@@ -393,7 +393,8 @@
 ----------
 
 
-	"""这是模型就好后回来增加的新特征
+	"""
+	这是模型就好后回来增加的新特征
 	考虑年龄缺失值可能影响死亡情况,数据表明,年龄缺失的死亡率为0.19
 	"""
 	train_test.loc[train_test["Age"].isnull()]['Survived'].mean()
