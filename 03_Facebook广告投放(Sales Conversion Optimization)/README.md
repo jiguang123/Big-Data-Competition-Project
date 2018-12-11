@@ -68,7 +68,7 @@
 
 
 
-2、查看有多少个广告活得(compaign):
+2、查看有多少个广告活动(compaign):
 ![2](http://m.qpic.cn/psb?/V10P3PxC0koPqQ/*R9gxsbLPHOh3dt96uEiAsH37JCzRuLBRCUka9Vydgk!/b/dFIBAAAAAAAA&bo=.AIPAgAAAAARB8c!&rf=viewer_4)
 
 
