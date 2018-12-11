@@ -61,7 +61,7 @@
 
 ---
 
-###一、数据统计
+### 一、数据统计
 
 1、将数据集导入Mysql数据库，结果如下：
 ![1](http://m.qpic.cn/psb?/V10P3PxC0koPqQ/yrapkc5xIrnCnqICQ4UqqhtSGpdN8WCYvbsAVlw0C0s!/b/dLYAAAAAAAAA&bo=wQOdAgAAAAARB20!&rf=viewer_4)
@@ -96,7 +96,7 @@
 
 ### 二、投放效果分析
 
-1、 interest_code值为多少的人点击率最高？分别对3个不同的广告活动进行分析。
+1、 interest值为多少的人点击率最高？分别对3个不同的广告活动进行分析。
 
 - 对于xyz_campaign_id=916, interest=21的人点击率最高，分析过程如下：
 ![7](http://m.qpic.cn/psb?/V10P3PxC0koPqQ/2wogMG2q3rVRnLXy3WHUu2hwk7xgWQfrTVtsJHD164g!/b/dDEBAAAAAAAA&bo=9gIRAgAAAAARB9c!&rf=viewer_4)
